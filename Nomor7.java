@@ -7,7 +7,7 @@ public class Nomor7 { // untuk membuat class
         System.out.print("Masukkan jumlah data yang ingin dimasukkan = ");
         int jumlah = input.nextInt(); // untuk memasukkan input user kedalam variabel
 
-        int[] data = new int[jumlah]; // untuk mendeklarasikan variabel yang didalam nya dapat diisi banyak data
+        int[] data = new int[jumlah]; // untuk mendeklarasikan variabel array yang didalam nya dapat diisi banyak data
 
         for (int i = 1; i <= jumlah; i++) { /* untuk membuat perulanganj dari 0 hingga kurang dari sama dengan 4 
             lalu setiap perulangan variabel akan bertambah 1*/

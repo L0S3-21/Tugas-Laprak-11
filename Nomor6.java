@@ -2,7 +2,7 @@ public class Nomor6 { // untuk membuat class
     public static void main(String[] args) { // untuk memulai program
 
         int[] bilangan = { 23, 26, 30, 32, 33, 69, 50, 70, 80, 55, 76, 53, 21 }; 
-        // untuk mendeklarasikan variabel yang didalam nya dapat diisi banyak data
+        // untuk mendeklarasikan variabel array yang didalam nya dapat diisi banyak data
 
         int[] genap = new int[bilangan.length]; 
         // untuk membuat array int baru dimana jumlah data sama dengan variabel array bilangan
